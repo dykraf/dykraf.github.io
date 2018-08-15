@@ -1,0 +1,4 @@
+# robots.txt for http://dykraf.com
+User-agent: *
+
+Sitemap: http://dykraf.com/sitemap.xml
